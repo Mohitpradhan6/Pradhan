@@ -86,7 +86,7 @@ NODE_ENV=production
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/iemafzalhassan/full-stack_chatApp.git
+git clone https://github.com/Mohitpradhan6/Pradhan.git
 ```
 
 🏗️ Build and Run the Application

@@ -1,5 +1,11 @@
-## 👨‍💻 Developer: Mohit Sharma
-Built and customized by Mohit Sharma | [LinkedIn](https://linkedin.com/in/mohit-sharma-62a09b350)
+# 🔥 Real-Time Full Stack Chat Application
+### Built by Mohit Sharma | B.Tech CSE | Rajasthan Technical University
+
+A scalable real-time chat application built with React.js, Node.js, MongoDB and Socket.io.
+
+**Developer:** Mohit Sharma  
+**LinkedIn:** https://linkedin.com/in/mohit-sharma-62a09b350  
+**LeetCode:** https://leetcode.com/u/mohitpradhan123/
 
 
 # Real-Time Chat Application

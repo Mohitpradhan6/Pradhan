@@ -1,4 +1,5 @@
-[![Fork Button](https://img.shields.io/github/forks/iemafzalhassan/full-stack_chatApp?style=social)](https://github.com/iemafzalhassan/full-stack_chatApp/fork)
+## 👨‍💻 Developer: Mohit Sharma
+Built and customized by Mohit Sharma | [LinkedIn](https://linkedin.com/in/mohit-sharma-62a09b350)
 
 
 # Real-Time Chat Application
